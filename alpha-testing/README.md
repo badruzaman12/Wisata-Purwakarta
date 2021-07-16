@@ -1,5 +1,11 @@
-alpha testing
+# Alpha Testing Purwakarta Tourism
 
-Nama testing: ahmad faisal
+## Date
+Friday, 16 July 2021
 
-Berikut ini link yotobe https://youtu.be/uDjqeJNODGw
+## Tester
+- Name : ahmad faisal
+- Occupation : admin employee
+- Age : 28 years old
+
+## Video Youtube : https://youtu.be/uDjqeJNODGw
