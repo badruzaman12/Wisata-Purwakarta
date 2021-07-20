@@ -5,5 +5,7 @@ This is an app that will display several tourist attractions contained in Purwak
 - REST API
 - Google Maps API
 
-## Link playtore 
-https://play.google.com/apps/internaltest/4697895702224372974
+##
+Link Playstore
+
+https://play.google.com/store/apps/details?id=com.badruzaman.wisatapurwakarta
